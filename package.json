@@ -15,7 +15,7 @@
     "@react-navigation/native-stack": "^6.6.2",
     "@reduxjs/toolkit": "^1.8.2",
     "@types/react-native": "^0.67.6",
-    "expo": "~44.0.0",
+    "expo": "~47.0.9",
     "expo-font": "~10.0.4",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
